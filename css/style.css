@@ -4,8 +4,16 @@ padding: 0;
 box-sizing: border-box;
 }
 
-/* header */
+body{
+font-family: 'Poppins', sans-serif;
+}
 
+
+
+/* header */
+header{
+padding: 20px;
+}
 
 /* header-nav */
 #header-nav ul{
@@ -32,13 +40,6 @@ list-style: none;
 display:inline-block;
 }
 
-
-
-
-
-
-
-
 #user-avatar{
 width: 30px;
 height: 30px;
@@ -49,3 +50,12 @@ border-radius: 65px;
 width: 100%;
 height: 100%;
 }
+
+/* main */
+main{
+padding: 20px;
+}
+
+
+
+/* div id="container" */
