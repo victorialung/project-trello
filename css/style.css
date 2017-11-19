@@ -1,0 +1,51 @@
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+
+/* header */
+
+
+/* header-nav */
+#header-nav ul{
+list-style: none;
+}
+
+#header-nav li{
+display:inline-block;
+}
+
+
+/* navbar */
+#navbar-right li{
+float: right;
+}
+
+/* header-subnav */
+
+#header-subnav ul{
+list-style: none;
+}
+
+#header-subnav li{
+display:inline-block;
+}
+
+
+
+
+
+
+
+
+#user-avatar{
+width: 30px;
+height: 30px;
+}
+
+#user-avatar img{
+border-radius: 65px;
+width: 100%;
+height: 100%;
+}
