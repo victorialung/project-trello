@@ -56,6 +56,18 @@ main{
 padding: 20px;
 }
 
+/* div id = "add-list-box" */
+#add-list-box{
+border-radius: 10px;
+width: 250px;
+cursor: pointer;
+}
 
+#add-list-box:hover{
+width:250px;
+}
 
-/* div id="container" */
+/* using css styles we hide the form element  */
+#save-list-box{
+display:none;
+}
